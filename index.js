@@ -58,6 +58,9 @@ const loadAdds = () => {
   console.log('Ads loaded');
 }
 
+const affiliateRedirect = () => {
+  //resolving
+}
 
 //test commit
 

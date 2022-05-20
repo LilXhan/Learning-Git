@@ -58,7 +58,7 @@ const loadAdds = () => {
   console.log('Ads loaded');
 }
 
-
+console.log(2)
 //test commit
 
 //cambio 1

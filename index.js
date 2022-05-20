@@ -58,7 +58,10 @@ const loadAdds = () => {
   console.log('Ads loaded');
 }
 
-console.log(2)
+const affiliateRedirect = () => {
+  //resolvingdsad
+}
+
 //test commit
 
 //cambio 1
